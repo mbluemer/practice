@@ -1,0 +1,1 @@
+This is going to be the new dump for anything related to programming practice. My Github account was littered with a ton of repositories, many of which had little relevant code in it. This allows me to keep all of my practice code source controlled in a central location without unnecessarily cluttering my Github account.
